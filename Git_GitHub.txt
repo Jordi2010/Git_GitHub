@@ -1,0 +1,22 @@
+Git y GitHub
+   COMANDOS
+1- git init
+
+ - git status
+
+2- git add .       o       git add --all
+
+ - git status
+
+3- git commit -m "Subiendo práctica de Git y GitHub"
+
+ - git branch -m dev
+
+4- git remote add origin <enlace del repo>
+5- git push origin master (depende del nombre de la rama)
+
+OTROS COMANDOS MÁS SIMPLES
+
+git add .
+git commit -m "Inicio del proyecto"
+git push -u origin main
